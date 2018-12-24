@@ -1,0 +1,6 @@
+Image classifier
+
+Here I have tried to generate an image classifier that classifies that the object in given image is orange or apple. For this purpose I have taken 
+20 images as training data and 6 images as testing data. I am using keras to implement classifier with backend theona. I am using concept of neural 
+networks over here. Initially I am only creating 3 layers and the model used here is Sequential.
+NBS - is my database folder(where i have my training,testing and validating images)
